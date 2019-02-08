@@ -2,7 +2,7 @@
 	position: fixed;
 	width:100%;
 }
-#banner {
+#noBanner {
 	background-color: green;
 	border-color: green;
 	border-style: solid;
@@ -49,6 +49,10 @@
 	text-align: center;
 }
 #bye {
+	color: white;
+}
+
+h3{
 	text-align: center;
 	color: white;
 }
@@ -58,4 +62,22 @@ p {
 	font-size: 20pt;
 	margin-left: 20px;
 	margin-right: 30px;
+}
+
+#bannerReal{
+	background-color: black;
+	border-bottom: 20px;
+	text-align: center;
+	border-style: solid;
+	border-color: black;
+}
+
+#welcome{
+	color: white;
+	font-size: 40;
+	text-align:center;
+	border-top: 20px;
+	border-bottom: 20px;
+	border-color: black;
+	border-style: solid;
 }
