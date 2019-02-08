@@ -11,7 +11,7 @@
 	text-align: left;
 	color: white;
 	margin-left: 20px;
-	font-size: 15pt;	
+	font-size: 20pt;	
 }
 #menu {
 	background-color: #E6E0EE;
@@ -29,9 +29,13 @@
 	margin-left: 15px;
 }
 
+#audio {
+	margin-left: 20px;
+}
+
 .separator {
 	background-color:transparent;
-	height: 67px;
+	height: 72px;
 }
 
 .content {
@@ -43,6 +47,10 @@
 	background-color: green;
 	position: bottom;
 	text-align: center;
+}
+#bye {
+	text-align: center;
+	color: white;
 }
 
 p {
